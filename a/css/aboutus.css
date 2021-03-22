@@ -1,0 +1,79 @@
+* {
+  font-family: Lato, sans-serif;
+}
+p {
+  font-size: 18px;
+}
+.heading {
+  font-weight: 700;
+  color: #17375d;
+  font-size: 20px;
+}
+.main_about {
+  padding: 0;
+  position: relative;
+  margin-top: 100px;
+}
+.about-heading {
+  font-weight: 800;
+  font-size: 30px;
+  padding: 0;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.about-bg {
+  background: #f2f2f2;
+}
+.full-width {
+  padding: 40px 60px;
+}
+.full-width h2 {
+  font-size: 30px;
+  padding: 0 0 30px;
+  color: #000;
+  font-weight: 700;
+}
+.full-width p {
+  font-size: 15px;
+  line-height: 30px;
+}
+.university_img {
+  position: relative;
+}
+.University-section {
+  background: #fff;
+  border-bottom: 2px solid #9e9e9e40;
+}
+.about-section {
+  padding: 60px 65px;
+}
+.col-md-6.Vision {
+  padding-right: 50px;
+}
+.Vision h3 {
+  font-size: 30px;
+  padding: 0 0 30px;
+  color: #17375d;
+  font-weight: 700;
+}
+.Vision p {
+  font-size: 14px;
+  color: #000;
+  font-weight: 400;
+  line-height: 24px;
+}
+.col-md-6.Mission {
+  padding-left: 35px;
+}
+.Mission h3 {
+  font-size: 30px;
+  padding: 0 0 30px;
+  color: #17375d;
+  font-weight: 700;
+}
+.Mission p {
+  font-size: 14px;
+  color: #000;
+  font-weight: 400;
+  line-height: 24px;
+}

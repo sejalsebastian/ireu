@@ -1,0 +1,690 @@
+.main-section {
+  position: relative;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse .top-logo {
+  background: #000;
+  -webkit-transition: all 0.42s linear;
+  -moz-transition: all 0.42s linear;
+  -o-transition: all 0.42s linear;
+  transition: all 0.42s linear;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .top-logo
+  .wed-logo
+  a
+  img {
+  width: 240px;
+  -webkit-transition: all 0.42s linear;
+  -moz-transition: all 0.42s linear;
+  -o-transition: all 0.42s linear;
+  transition: all 0.42s linear;
+}
+header.main-section.inner-header .main-menu a {
+  color: #000;
+}
+header.main-section.inner-header .mm1-com.mm1-cour-com.mm1-s3 a {
+  color: #fff;
+}
+header.main-section.inner-header .m-menu .m-menu-inn {
+  border: none;
+  margin-top: 0;
+}
+header.main-section.inner-header .mobile_nav .mobile_nav_icon {
+  background: url(../images/icon-sprite1.png) 0 -368px no-repeat;
+}
+header.main-section.inner-header.fixed-top.scrolling-navbar.top-nav-collapse
+  .top-logo {
+  background: #fff;
+}
+.main-section {
+  background-image: url(../images/hrd-shadow.png);
+  height: 237px;
+  width: 100%;
+  background-repeat: repeat-x;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse {
+  height: auto;
+  background-image: initial;
+  z-index: 99;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .main-menu:before,
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .wed-logo:before {
+  display: none;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse .wed-logo {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .main-menu
+  ul
+  li
+  a {
+  padding: 34px 16px 13px;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .m-menu-inn:before {
+  top: 79px;
+  width: 80%;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .mobile_nav.group_menu {
+  margin-top: 27px;
+}
+header.main-section.inner-header .wed-logo:before {
+  background: #a9a9a9;
+}
+header.main-section.inner-header .main-menu:before {
+  background: #a9a9a9;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .mobile_nav
+  .main-menu
+  ul
+  li
+  a {
+  padding: 8px 30px;
+}
+body.menu_hover header.main-section.inner-header .main-menu a {
+  color: #fff;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .main-menu
+  ul
+  li
+  .mm1-com.mm1-cour-com.mm1-s3
+  a {
+  padding: 0;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .admis-colm1
+  .apply-btn
+  a {
+  font-size: 14px;
+  letter-spacing: initial;
+  text-transform: initial;
+  font-weight: 400;
+  background: #daa442;
+  color: #000;
+  padding: 10px 20px;
+  display: table;
+  border-radius: 4px;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .col-md-6.admis-colm2
+  ul {
+  border-left: 3px solid #daa442;
+  height: 100%;
+  padding-left: 70px;
+  display: table;
+  float: none;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .col-md-6.admis-colm2
+  ul
+  li {
+  float: none;
+  display: block;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .col-md-6.admis-colm2
+  ul
+  li
+  a {
+  padding: 14px 0;
+  border-bottom: 1px solid #767676;
+  padding-top: 0;
+  margin-bottom: 14px;
+  letter-spacing: inherit;
+  font-size: 16px;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .col-md-4.acad-colm1
+  p {
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.4;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .col-md-4.acad-colm1
+  .mm1-com
+  h4 {
+  width: 50%;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .col-md-8.acad-colm2 {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .col-md-8.acad-colm2
+  a {
+  padding: 0;
+  letter-spacing: initial;
+  text-transform: initial;
+}
+header.main-section.fixed-top.scrolling-navbar
+  .main-menu
+  ul
+  li
+  .col-md-8.acad-colm2
+  h5
+  i {
+  font-size: 12px;
+}
+.main-section .goog-te-gadget .goog-te-combo {
+  margin: 0;
+  padding: 7px 8px;
+  height: inherit;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .top-logo
+  .wed-logo
+  a
+  img {
+  width: 190px;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse .wed-logo {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .m-menu-inn:before {
+  top: 60px;
+  width: 75%;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .mobile_nav.group_menu {
+  margin-top: 15px;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .mm1-com.mm1-cour-com.mm1-s3
+  a {
+  padding: 0;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .main-menu
+  ul
+  li
+  a {
+  padding: 25px 16px 10px;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .main-menu
+  ul
+  li
+  a {
+  padding: 25px 10px 10px;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .main-menu
+  ul
+  li
+  a {
+  padding: 25px 5px 18px;
+}
+header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+  .top-logo
+  .wed-logo
+  a
+  img {
+  width: 160px;
+}
+.ed-top {
+  background: #731014;
+  position: relative;
+  z-index: 9;
+}
+.ed-top .container-fluid {
+  max-width: 1830px;
+}
+.ed-com-t1-right {
+  float: right;
+}
+.ed-com-t1-right ul li {
+  float: left;
+  display: inline-block;
+  height: 42px;
+}
+.ed-com-t1-right ul li a {
+  color: #fff;
+  padding: 11px 10px;
+  font-size: 14px;
+  display: block;
+  font-weight: 600;
+}
+.ed-com-t1-right ul li a b {
+  font-weight: 800;
+  font-size: 18px;
+  letter-spacing: 1.4px;
+}
+.ed-com-t1-right ul li.admission-colm a {
+  line-height: 1.2;
+}
+.ed-com-t1-right ul li.apply-colm a {
+  line-height: 1.4;
+}
+.ed-com-t1-right ul li a:hover {
+  opacity: 0.7;
+}
+.ed-com-t1-right ul li ul.dropdown_menu {
+  position: absolute;
+  display: none;
+  background: rgba(0, 0, 0, 0.95);
+  width: 270px;
+  padding: 0;
+}
+.ed-com-t1-right ul li ul.dropdown_menu li {
+  float: none;
+  height: auto;
+  width: 100%;
+}
+.ed-com-t1-right ul li ul.dropdown_menu li a {
+  font-size: 12px;
+  padding: 8px 15px;
+  border-bottom: 1px solid #212121;
+}
+.ed-com-t1-right ul li:hover ul.dropdown_menu {
+  display: block;
+}
+.ed-com-t1-right .goog-te-combo {
+  color: #fff;
+  border: none;
+  border-radius: 0;
+}
+.ed-com-t1-right .goog-te-combo option {
+  color: #fff;
+  border: unset;
+  background: #000;
+}
+.ed-com-t1-right ul li a {
+  padding: 5px 8px;
+  font-size: 13px;
+}
+.ed-com-t1-right ul li a {
+  font-size: 11px;
+  padding: 7px 4px 0;
+}
+.top-logo-white .main-menu ul li a {
+  color: #000;
+  padding: 36px 13px;
+  line-height: 60px;
+  font-size: 14px;
+  font-weight: 900;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 999;
+  letter-spacing: 2px;
+}
+.top-logo-white .wed-logo {
+  float: left;
+  width: 3%;
+  border-bottom: 1px solid #cecdcd;
+  position: relative;
+  height: 68px;
+}
+.top-logo-white .main-menu {
+  float: right;
+  width: 74%;
+  border-bottom: 1px solid #cecdcd;
+  padding: 1px;
+  height: 68px;
+}
+.top-logo-white .m-menu {
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  margin-top: 16px;
+  padding: 13px 24px 0;
+  background: #000000eb;
+  display: block !important;
+  visibility: hidden;
+  opacity: 0;
+}
+.top-logo-white .mm1-com ul li a {
+  font-size: 14px !important;
+  color: #fff;
+  line-height: 31px !important;
+  padding: 5px !important;
+  text-transform: capitalize;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+.top-logo {
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 1s ease;
+  background: 0 0;
+  position: absolute;
+  z-index: 3;
+  width: 100%;
+}
+.text-white {
+  color: #fff !important;
+}
+.top-logo-white {
+  padding: 0;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 1s ease;
+  background: 0 0;
+  position: relative;
+  z-index: 3;
+  width: 100%;
+}
+.top-logo .container-fluid {
+  max-width: 1830px;
+  padding-left: 0;
+}
+.affix .top-logo {
+  background: #000;
+  padding: 0;
+  height: auto;
+}
+.affix .top-logo img {
+  width: 214px;
+  padding: 11px;
+}
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.wed-logo {
+  float: left;
+  width: 26%;
+  padding-top: 25px;
+  padding-left: 50px;
+}
+padd .wed-logo a img {
+  width: 361px;
+}
+top-logo-white .wed-logo {
+  float: left;
+  width: 3%;
+  border-bottom: 1px solid #cecdcd;
+  position: relative;
+  height: 68px;
+}
+.wed-logo a {
+  position: relative;
+  z-index: 9999;
+}
+.wed-logo:before {
+  position: absolute;
+  width: 2000%;
+  right: 98%;
+  background: rgba(255, 255, 255, 0.5);
+  height: 1px;
+  bottom: 23px;
+  content: "";
+}
+.wed-logo a img {
+  width: 290px;
+}
+.main-menu {
+  float: right;
+  width: 74%;
+}
+.main-menu ul {
+  float: right;
+}
+.main-menu ul li {
+  float: left;
+  display: inline-block;
+}
+.main-menu ul li a {
+  color: #fff;
+  padding: 42px 16px 26px;
+  display: block;
+  font-size: 16px;
+  font-weight: 900;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 999;
+  letter-spacing: 2px;
+}
+.main-menu ul li.about-menu:hover a.mm-arr {
+  border-bottom: 5px solid #fff;
+}
+.main-menu ul li a:hover {
+  border-bottom: 5px solid #fff;
+  text-decoration: none;
+  color: #fff;
+  color: #ad9191 !important;
+  border-bottom: none;
+  text-decoration: none;
+  color: #fff;
+}
+.main-menu ul li:last-child a {
+  padding-right: 0;
+}
+.main-menu:before {
+  position: absolute;
+  width: 2000%;
+  left: 26%;
+  background: rgba(255, 255, 255, 0.5);
+  height: 1px;
+  bottom: 23px;
+  content: "";
+}
+.mm-pos {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  top: 0;
+}
+.about-mm.m-menu .container {
+  max-width: 1240px;
+  float: right;
+}
+.m-menu {
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  padding: 75px 0 100px;
+  background: #000000eb;
+  display: block !important;
+  top: 0;
+  visibility: hidden;
+  opacity: 0;
+  transition-duration: 0.3s;
+  -webkit-transform-origin: center center;
+  -moz-transform-origin: center center;
+  -ms-transform-origin: center center;
+  -o-transform-origin: center center;
+  transform-origin: center center;
+  -webkit-transform: translateY(20px);
+  -moz-transform: translateY(20px);
+  -ms-transform: translateY(20px);
+  -o-transform: translateY(20px);
+  transform: translateY(20px);
+  transition-timing-function: ease;
+}
+.m-menu-inn {
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  padding-top: 50px;
+  padding-bottom: 0;
+  margin-top: 8px;
+}
+.m-menu-inn:before {
+  content: "";
+  width: 75%;
+  position: absolute;
+  height: 1px;
+  background: #757778;
+  right: 0;
+  top: 99px;
+}
+.m-menu-inn > .mm1-s2 > .mm-r-m-btn {
+  background: #002147;
+  padding: 4px 10px;
+  color: #fff;
+  font-size: 11px;
+  border-radius: 3px;
+  height: 30px;
+  line-height: 24px;
+}
+.m-menu-inn > .mm2-com > a {
+  background: #002147;
+  padding: 4px 10px;
+  color: #fff;
+  font-size: 11px;
+  border-radius: 3px;
+  height: 30px;
+  line-height: 24px;
+}
+.mm1-com {
+  float: left;
+  box-sizing: border-box;
+  padding: 20px;
+}
+.mm1-com h4 {
+  border-bottom: 1px solid #484847;
+  padding-bottom: 12px;
+  margin-bottom: 12px;
+  text-transform: capitalize;
+  font-size: 14px;
+  color: #fff;
+  font-weight: 100;
+}
+.mm1-com ul li a {
+  font-size: 14px;
+  color: #fff;
+  line-height: 31px;
+  padding: 5px;
+  text-transform: capitalize;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+.mm1-com ul li a:after {
+  bottom: 0;
+}
+.ed-course-in {
+  margin-bottom: 30px;
+  border-radius: 3px;
+  position: relative;
+  overflow: hidden;
+}
+.ed-course-in a.course-overlay img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.ed-course-in a:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(31, 44, 115, 0.57);
+}
+.ed-course-in:hover a.course-overlay img {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.ed-course-in p {
+  font-size: 26px;
+  color: #c4c4c4;
+  font-weight: 400;
+  line-height: 1.3;
+  text-align: right;
+}
+@media only screen and (max-width: 767px) {
+  .m-menu-inn {
+    padding-top: 0;
+  }
+  .m-menu-inn:before {
+    width: 73%;
+    top: 57px;
+  }
+  .main-section {
+    height: 147px;
+    background-size: 100% 100%;
+  }
+  .wed-logo {
+    padding-left: 15px;
+  }
+  .wed-logo a img {
+    width: 260px;
+  }
+  .ed-com-t1-right ul li:nth-child(1) {
+    display: block;
+    height: 29px;
+  }
+  header.main-section.fixed-top.scrolling-navbar {
+    position: absolute;
+  }
+  header.main-section.fixed-top.scrolling-navbar.top-nav-collapse {
+    position: fixed;
+  }
+  header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+    .top-logo
+    .wed-logo
+    a
+    img {
+    width: 120px;
+  }
+  header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+    .mobile_nav
+    .mobile_nav_icon {
+    top: 2px;
+  }
+  header.main-section.fixed-top.scrolling-navbar.top-nav-collapse
+    .mobile_nav
+    .mobile_nav_icon.open {
+    top: 20px;
+  }
+  header.main-section.fixed-top.scrolling-navbar.top-nav-collapse .wed-logo {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+  .ed-com-t1-right ul li {
+    display: none;
+  }
+  .ed-com-t1-right ul li.apply-colm,
+  .ed-com-t1-right ul li.searchnav {
+    display: block;
+  }
+  .ed-com-t1-right ul li {
+    height: 26px;
+  }
+  .ed-com-t1-right ul li a {
+    padding: 2px 10px;
+  }
+  .ed-com-t1-right ul li.apply-colm a {
+    padding: 4px 10px;
+  }
+}

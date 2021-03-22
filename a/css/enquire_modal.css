@@ -1,0 +1,54 @@
+.modal-header {
+  background-color: #374871;
+  color: white;
+  text-align: center;
+}
+.modal-dialog {
+  width: 30%;
+  border-top-left-radius: 25px;
+  background-color: white;
+}
+@media only screen and (max-width: 600px) {
+  .modal-dialog {
+    width: 100%;
+    border-top-left-radius: 25px;
+    background-color: white;
+  }
+}
+.container-box {
+  display: inline-block;
+  border: 1px solid #fff;
+  position: fixed;
+  top: 30%;
+  right: 0;
+  margin-right: 0;
+}
+.turned-button,
+.turned-button:focus,
+.turned-button:active,
+.turned-button:hover {
+  background-color: #374871;
+  border-color: #374871;
+}
+.modal-content {
+  background: rgba(255, 255, 255, 0.7);
+}
+.rotated {
+  transform: rotate(270deg);
+  right: -52px;
+}
+.sub_btn,
+.sub_btn:active,
+.sub_btn:hover,
+.sub_btn:focus {
+  padding: 10px;
+  width: 150px;
+  background-color: #374871;
+  border-color: #374871;
+}
+input[type="text"],
+input[type="email"] {
+  outline: none;
+  box-shadow: none !important;
+  border: 1px solid #ccc !important;
+}

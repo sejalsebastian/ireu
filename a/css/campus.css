@@ -1,0 +1,217 @@
+.main_about {
+  padding: 0;
+  position: relative;
+  margin-top: 220px;
+}
+
+.about-heading {
+  font-weight: 800;
+  font-size: 30px;
+  padding: 0;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.campus-banner img,
+.center-interaction img {
+  width: 100%;
+}
+.campus-banner .container-fluid {
+  padding: 0;
+  margin-top: 0;
+}
+.campus-banner {
+  position: relative;
+}
+
+.content-area {
+  padding-top: 50px;
+}
+.camps-life .border-rght:after {
+  content: "";
+  background: #e1e1e1;
+  position: absolute;
+  bottom: 18px;
+  right: 50px;
+  height: 1px;
+  width: 80%;
+}
+.camps-life .border-rght {
+  font-size: 30px;
+  font-weight: 600;
+  color: #353535;
+}
+.circular-activity .red-bg {
+  color: #fff;
+  background: #374871;
+  padding: 60px;
+  min-height: 280px;
+  height: 100%;
+}
+.red-bg h3 {
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.red-bg p {
+  color: #fff;
+  font-size: 16px;
+}
+.circular-activity .red-bg1 {
+  color: #323232;
+  background: #fbf3f1;
+  padding: 60px;
+  min-height: 280px;
+  height: 100%;
+}
+.red-bg1 h3 {
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.red-bg1 p {
+  color: #323232;
+  font-size: 16px;
+}
+.circular-activity .item .shadow-effect {
+  background: #5d81b5;
+  color: #fff;
+  padding: 59px;
+  min-height: 240px;
+  height: 100%;
+}
+.circular-activity .item .shadow-effect p {
+  color: #fff;
+}
+.circular-activity .item .shadow-effect h3 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #fff;
+  padding-bottom: 10px;
+}
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.no-gutters > .col,
+.no-gutters > [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+section.marketing_club {
+  margin: 60px 0;
+  background: url(../img/campus_life2.jpg) no-repeat;
+  min-height: 580px;
+  background-size: cover;
+}
+section.marketing_club {
+  min-height: auto;
+  background-size: 100%;
+}
+.marketing_sec {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 30px;
+  margin: 90px 0;
+}
+.marketing_sec h3,
+.marketing_sec p {
+  color: #fff;
+}
+.counsling_sec,
+.marketing_sec {
+  padding: 30px 20px;
+  /* margin-top: 45%; */
+}
+section.counsling {
+  margin: 60px 0;
+  background: url(../img/counsling.jpg) no-repeat;
+  min-height: 580px;
+  background-size: cover;
+}
+.counsling_sec {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 30px;
+  margin-top: 90px;
+}
+.counsling_sec h3,
+.counsling_sec p {
+  color: #fff;
+}
+/* ---------------------
+placemets testimonial 
+-----------------------*/
+#testimonials {
+  padding: 20px 0;
+}
+
+#testimonials .testimonial-item {
+  box-sizing: content-box;
+  padding: 0;
+  margin: 15px;
+  text-align: center;
+  min-height: 300px;
+  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 767px) {
+  #testimonials .testimonial-item {
+    margin: 30px 10px;
+  }
+}
+
+#testimonials .testimonial-item .testimonial-img {
+  width: 90px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin: 0 auto;
+}
+
+#testimonials .testimonial-item h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0 5px 0;
+  color: #111;
+}
+
+#testimonials .testimonial-item h4 {
+  font-size: 14px;
+  color: #999;
+  margin: 0;
+}
+
+#testimonials .testimonial-item .quote-sign-left {
+  margin-top: -15px;
+  padding-right: 10px;
+  display: inline-block;
+  width: 37px;
+}
+
+#testimonials .testimonial-item .quote-sign-right {
+  margin-bottom: -15px;
+  padding-left: 10px;
+  display: inline-block;
+  max-width: 100%;
+  width: 37px;
+}
+
+#testimonials .testimonial-item p {
+  font-style: italic;
+  margin: 0 auto 15px auto;
+}
+
+#testimonials .owl-nav,
+#testimonials .owl-dots {
+  /* margin-top: 5px; */
+  text-align: center;
+}
+
+#testimonials .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: rgb(180, 178, 178);
+}
+#testimonials .owl-dot.active {
+  background-color: #374871;
+}

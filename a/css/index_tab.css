@@ -1,0 +1,45 @@
+ /* phone mode start */
+ @media only screen and (max-width: 600px) {
+            .banner_image{
+                height: 332px;
+            width: 1048px;
+        }
+        h2{
+            font-size: 22px;
+        }
+        .academics-text h3{
+            font-size: 16px;
+        }
+        .te-browse-courses h2{
+            font-size: 22px;
+        }
+        .grid-annoying li .change-angle h3{
+            font-size: 13px;
+        }
+        .aa {
+            font-size: 15px;
+        }
+        p{
+            font-size: 15px;
+        }
+        .list-head{
+            font-size: 15px;
+        }
+        }
+ /* phone mode End */
+
+/* tab_mode_start  */
+@media only screen and (min-width: 768px) {
+    .container-fluid{
+        padding-right:0px;
+        padding-left: 0px;
+        
+    }
+    .card_academic{
+        border: 0;
+    }
+   
+   
+  } 
+  
+/* tab_mode_end */

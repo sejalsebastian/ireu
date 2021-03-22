@@ -1,0 +1,214 @@
+.main_about {
+  padding: 0;
+  position: relative;
+  margin-top: 150px;
+}
+p {
+  font-size: 17px;
+}
+ul li {
+  font-size: 18px;
+  /* line-height: 2; */
+}
+.about-heading {
+  font-weight: 800;
+  font-size: 30px;
+  padding: 0;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.inner_container {
+  margin-top: 20px;
+}
+.cms-inner-pages h2 {
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.5;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.cms-inner-pages {
+  margin-bottom: 90px;
+}
+.cms-inner-pages ul li {
+  margin-bottom: 20px;
+  line-height: 1.7;
+}
+/* privacy page  */
+
+.cms-inner-pages #accordion {
+  max-width: 90%;
+  margin: 0 auto;
+}
+.faq-panel-1 h5.mb-0.accordion {
+  padding: 20px;
+  background: #fbf3f1;
+  border-radius: 5px;
+  margin: 0;
+}
+
+.faq-panel-1 .acoord-shadow {
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.faq-panel-1 .card-body {
+  padding: 22px;
+}
+
+.faq-panel-1 .card-body p {
+  font-size: 14px;
+}
+
+.faq-panel-1 div#accordion a.collapsed:after {
+  background: #fff url(../img/symbols/icon-sprite.png) no-repeat;
+  width: 35px;
+  height: 35px;
+  content: "";
+  position: absolute;
+  right: 0;
+  background-position: 2px -152px;
+  border-radius: 50%;
+  border: 1px solid #e5e5e5;
+}
+
+.faq-panel-1 div#accordion a {
+  display: block;
+  position: relative;
+  padding: 0;
+}
+
+.faq-panel-1 div#accordion a:after {
+  background: #fff url(../img/symbols/icon-sprite.png) no-repeat;
+  width: 35px;
+  height: 35px;
+  content: "";
+  position: absolute;
+  right: 0;
+  background-position: 3px -205px;
+  border-radius: 50%;
+  border: 1px solid #e5e5e5;
+  top: -6px;
+}
+.faq-panel-1.col-md-12.resource_top h5 {
+  background: #ebeaea;
+  border-radius: 0;
+  padding: 0;
+  border: none;
+}
+
+.faq-panel-1.col-md-12.resource_top h5 a {
+  height: auto !important;
+  border-radius: 0;
+  padding: 0;
+  background: #ebeaea;
+  font-size: 24px;
+  font-weight: 700;
+  color: #000;
+}
+
+.faq-panel-1.col-md-12.resource_top h5 a span.img_copy {
+  display: inline-block;
+  float: none;
+  margin-right: 30px;
+  padding: 25px 0;
+  max-width: 70px;
+}
+
+.faq-panel-1.col-md-12.resource_top .card-body {
+  background: #fff;
+  padding: 50px 60px;
+}
+
+.faq-panel-1.col-md-12.resource_top div#accordion a:after {
+  border-radius: 0;
+  border: none;
+  background-color: transparent;
+  display: none;
+}
+
+.faq-panel-1.col-md-12.resource_top div#accordion a.collapsed:after {
+  display: none;
+}
+
+.faq-panel-1.col-md-12.resource_top div#accordion a.collapsed label:before {
+  content: "+";
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 28px;
+}
+
+.faq-panel-1.col-md-12.resource_top div#accordion a label {
+  background: #f2f1ef;
+  padding: 31px 20px;
+  margin-bottom: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-left: 1px solid #fff;
+  color: #731013;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1;
+  height: 100%;
+  max-width: 250px;
+  width: 100%;
+  text-align: center;
+}
+
+.faq-panel-1.col-md-12.resource_top .acoord-shadow {
+  border-radius: 0;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.faq-panel-1.col-md-12.resource_top div#accordion a label:before {
+  content: "-";
+  display: inline-block;
+  margin-right: 15px;
+}
+.faq-panel-1.col-md-12.resource_top .acoord-shadow ul li a {
+  background: #720f12;
+  padding: 7px !important;
+  color: #fff;
+  font-size: 14px;
+  float: right;
+}
+
+.faq-panel-1.col-md-12.resource_top .acoord-shadow ul li a.p_icon {
+  padding: 0 !important;
+  background: 0 0;
+}
+.faq-panel-1.col-md-12.resource_top h5 a {
+  font-size: 18px;
+}
+.accordion {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 9px 0;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: 0;
+  font-size: 18px;
+  transition: 0.4s;
+  margin: 4px 0;
+  border-bottom: 1px solid #f5eeee;
+  position: relative;
+  font-weight: 700;
+}
+.accordion a {
+  color: #444;
+  cursor: pointer;
+  padding: 9px 0;
+  border: none;
+  text-align: left;
+  outline: 0;
+  font-size: 18px;
+  position: relative;
+  font-weight: 700;
+  text-decoration: none;
+}
+/* disclaimer page  */

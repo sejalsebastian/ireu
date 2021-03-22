@@ -1,0 +1,153 @@
+.main_about {
+  padding: 0;
+  position: relative;
+  margin-top: 150px;
+}
+p {
+  font-size: 17px;
+}
+.media-heading {
+  font-weight: bold;
+  color: #17375d;
+  padding: 0;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.programme_main {
+  margin-top: 20px;
+  padding-bottom: 100px;
+}
+.programme_main h6 {
+  padding: 20px 0;
+  clear: both;
+}
+.second_menu ul {
+  width: 100%;
+  float: left;
+  padding-left: 0;
+  margin: 0;
+}
+
+.second_menu ul li {
+  border: none;
+  padding: 0 6px;
+  font-size: 18px;
+  float: left;
+  list-style: none;
+}
+
+.second_menu ul li:first-child {
+  padding-left: 0;
+}
+
+.second_menu ul li a {
+  border: none;
+ font-weight: 400;
+  color: #757575;
+  font-size: 18px;
+  list-style: none;
+  padding: 0;
+}
+
+.second_menu ul li.active a {
+  color: #000;
+  border-bottom: solid 2px #595758;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+.programme_ul li a {
+  color: black;
+}
+.second_menu {
+  height: 43px;
+}
+@media only screen and (min-width: 1150px) and (max-width: 1279px) {
+  .second_menu ul li a {
+    font-size: 17px;
+  }
+  .second_menu {
+    height: 38px;
+  }
+}
+.programme_ul li a {
+  color: black;
+}
+
+.programe_content h4 {
+  font-size: 24px;
+  color: #2e334a;
+  border-bottom: 1px solid #ccc;
+  padding: 20px 0;
+  border-top: 1px solid #ccc;
+  width: 65%;
+  margin-bottom: 0;
+}
+.programme_ul {
+  padding: 20px 18px 30px;
+  list-style: none;
+}
+
+.programme_ul li {
+  font-size: 18px;
+  line-height: 31px;
+}
+
+.programme_ul li::before {
+  content: "\2022";
+  color: #374871;
+  font-weight: 700;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.nav-pills > li > a.active {
+  background-color: white !important;
+
+  color: #000 !important;
+  border-bottom: solid 2px #595758;
+  padding-bottom: 18px;
+}
+
+.nav-pills > li > a {
+  color: #194486;
+  /* border: 1px solid red; */
+}
+
+.acoord-shadow.pdf-down h5 {
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.acoord-shadow.pdf-down h5 a.grey-bg:after {
+  content: "";
+  background: #f7f7f7;
+  position: relative;
+  width: 130px;
+  height: 65px;
+  position: absolute;
+  right: -20px;
+  position: absolute;
+  top: -21px;
+}
+.acoord-shadow.pdf-down h5 a {
+  position: relative;
+  float: right;
+  font-size: 16px;
+}
+.acoord-shadow.pdf-down h5 a.grey-bg img {
+  float: right;
+  position: absolute;
+  right: 27px;
+  z-index: 9;
+  top: -8px;
+}
+.experiential_learning.acoord-shadow.pdf-down span {
+  font-size: 22px;
+  font-weight: 600;
+  float: left;
+}
+.experiential_learning .acoord-shadow {
+  transition: 0.4s;
+  box-shadow: 0 0 10px 0.5px rgba(158, 155, 155, 0.3);
+  margin-bottom: 30px;
+}

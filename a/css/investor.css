@@ -1,0 +1,305 @@
+.mainnav {
+  /*line-height: 45px;
+	height: 45px;*/
+  line-height: 53px;
+  height: 53px;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  background: #024d87;
+  font-size: 16px;
+  font-weight: 400;
+  width: 100%;
+  /*background: url(../images/navbg.gif) repeat-x;*/
+}
+.mainnav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  position: relative;
+  display: inline-table;
+  background: #024d87;
+}
+.mainnav ul li {
+  float: left;
+  /*background: url(../images/navdvdr.gif) 0% 0% no-repeat;*/
+  background: #024d87;
+  display: block;
+  position: relative;
+  /*height: 44px;*/
+  height: 52px;
+  /*padding:0 10px;*/
+}
+.mainnav ul li.home a {
+  background: url(../img/symbols/icons.png) 18px -2045px no-repeat;
+  text-indent: -9999px;
+  padding: 0;
+  padding: 0;
+  width: 60px;
+}
+.mainnav ul li a.last {
+  /*background: url(../images/navdvdr.gif) 100% 0% no-repeat;*/
+  background: #024d87;
+}
+.mainnav ul li:hover {
+  color: #fff;
+  /*background: #3C74B1;*/
+  background: #0370c0;
+}
+.mainnav ul li.home:hover a {
+  color: #fff;
+  opacity: 1;
+}
+.mainnav ul li.active {
+  background-color: #0370c0;
+  color: #fff;
+}
+.mainnav ul li h2 a.active {
+  /*background: url(../images/icons.png) 18px -2045px no-repeat;
+	text-indent: -9999px;
+padding: 0;
+padding: 0;
+width: 60px;*/
+  background-color: #0370c0;
+  color: #fff;
+}
+.mainnav ul li a img {
+  margin-top: 12px;
+}
+.mainnav ul li:hover a img {
+  margin-top: 12px;
+  background: #0370c0;
+  color: #fff;
+}
+.mainnav ul li a {
+  color: #fff;
+  /*font-size: 16px;*/
+  font-size: 16px;
+  /*text-transform: uppercase;*/
+  display: block;
+  padding: 0 17px;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 53px;
+}
+.inews {
+  height: 42px;
+  position: relative;
+  top: -10px;
+}
+.inews table {
+  width: 100%;
+  height: 42px;
+}
+.inews .newsL {
+  background: url(../images/latestnewsL.png) 0% 0% no-repeat;
+  width: 122px;
+  /*color: #4a8bc1;
+	font-size: 14px;*/
+  color: #000;
+  font-size: 16px;
+  padding-left: 42px;
+}
+.inews .newsM {
+  background: url(../images/latestnewsM.png) 0% 0% repeat-x;
+  width: 829px;
+}
+.inews .newsM li {
+  list-style-image: url(../images/arw.gif);
+  color: #333;
+  font-size: 12px;
+  margin-left: 100px;
+  float: left;
+}
+.inews .newsR {
+  background: url(../images/latestnewsR.png) 100% 0% no-repeat;
+  width: 11px;
+}
+#news_slider-container {
+  text-align: left;
+  height: 32px !important;
+}
+
+#news_slider-container i {
+  font-size: 16px;
+  margin: 8px;
+  cursor: pointer;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+
+#news_slider-container i:hover {
+  color: #333;
+}
+#news_slider li {
+  color: #666666;
+  background: #fff;
+  overflow: hidden;
+  height: 30px;
+  padding: 8px;
+  font-size: 16px;
+  text-align: left;
+}
+
+#news_slider li:hover {
+  background: #fff;
+  text-decoration: underline;
+}
+.liTextcontent {
+  /*color: #4a8bc1;
+	font-size: 13px;*/
+  color: #333;
+  font-size: 15px;
+}
+.container .box {
+  height: 250px;
+  width: 229px;
+  float: left;
+  /*margin: 8px 27px 0 0;*/
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 8px 0px 0 0;
+  position: relative;
+}
+.container .box:last-child {
+  margin-right: 0 !important;
+}
+.container .box .top {
+  height: 37px;
+  background: url(../img/investor/box2top.gif) 0% 0% no-repeat;
+  /*line-height: 30px;*/
+  /*padding-left: 15px;*/
+  line-height: 29px;
+  padding-left: 12px;
+  text-transform: uppercase;
+  font-size: 16px;
+  /*color: #4a8bc1;*/
+  color: #000;
+  font-family: "Source Sans Pro", source_sans_proregular, arial;
+}
+.container .box .mdl {
+  /*height: 188px;*/
+  height: 205px;
+  font-family: "Source Sans Pro", source_sans_proregular, arial;
+  background: url(../images/boxmdl.jpg) 0% 0% repeat-y;
+  font-size: 15px;
+  color: #666;
+  padding: 0;
+  font-weight: normal;
+}
+.container .box .mdl .con {
+  /*padding: 10px 20px;*/
+  padding: 10px 17px;
+}
+
+.container .box .btm {
+  height: 25px;
+  background: url(../images/boxbtm.jpg) 0% 0% no-repeat;
+  line-height: 20px;
+  padding-right: 10px;
+  /*text-transform: uppercase;*/
+  color: #3c3a3b;
+  font-size: 10px;
+  text-align: right;
+}
+.more {
+  /*background: url(../images/more.jpg) 100% 50% no-repeat;*/
+  background: url(../img/symbols/icons.png) no-repeat right -221px;
+  padding-right: 25px;
+  font-size: 16px;
+  color: #0370c0;
+}
+.more a {
+  background: url(../img/symbols/icons.png) no-repeat right -221px;
+  padding-right: 25px;
+  font-size: 16px;
+  color: #0370c0;
+}
+.InIco {
+  /*margin: 0 0 0 30px;*/
+  margin: 0 10px 0 30px;
+  padding-top: 10px;
+}
+.InIco li {
+  /*list-style-image: url(../images/arw.gif);*/
+  list-style-image: url(../img/symbols/bullet.png);
+  line-height: 16px;
+  padding-bottom: 8px;
+  text-transform: none;
+}
+.InIco li a {
+  color: #333;
+}
+.InIco li a:hover {
+  text-decoration: underline;
+}
+
+/* investor financial  */
+.box1 .top1 {
+  height: 39px;
+  background: url(../img/investor/box2top.gif) 0% 0% no-repeat;
+  line-height: 39px;
+  padding-left: 15px;
+  text-transform: uppercase;
+  font-size: 14px;
+  /*color: #4a8bc1;*/
+  color: #000;
+}
+.MultipleItemContent2 {
+  height: 269px;
+  /*background: url(../images/CS-bg.gif) 0% 0% no-repeat;*/
+  background: url(../images/AnnualExtract.jpg) 0% 0% no-repeat;
+  padding: 10px 15px 0px 15px;
+}
+.MultipleItemHeading2 {
+  padding: 10px 5px 5px 0px;
+  background: url(../img/investor/box2top.gif) 0% 0% no-repeat;
+}
+.MultipleItemContainer2 {
+  padding: 20px 5px;
+  /*padding-top:20px;*/
+}
+.MultipleItemHeading2 h3 {
+  color: #4a8bc1;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 14px;
+  padding-left: 10px;
+}
+.MultipleItemHeading2 h3 a {
+  color: #000;
+}
+.MultipleItemText2 {
+  font-size: 18px;
+  padding-bottom: 8px;
+  color: rgb(0, 0, 0);
+  line-height: 18px;
+  /*width: 330px;*/
+  width: 217px;
+  height: 177px;
+  /*height:184px;*/
+  padding-left: 26px;
+}
+
+/* corporate governance  */
+.inncontainer {
+  width: 928px;
+  padding: 0 0 20px 0;
+  margin: 10px auto;
+}
+
+.Anarrow {
+  color: #fff;
+  font-family: "Arial Narrow", sans-serif;
+  /*font-size: 26px;*/
+  font-size: 20px;
+  text-transform: uppercase;
+  padding: 20px;
+  margin: 5px;
+  background-color: #0370c0;
+  width: 200px;
+  height: 200px;
+}

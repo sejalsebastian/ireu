@@ -1,0 +1,16 @@
+ul li {
+    font-size: 17px;
+    line-height: 2;
+  }
+  .navbar-toggler{
+      padding: 0rem 0rem;
+    }
+    @media only screen and (max-width: 768px) {
+        .heading{
+            font-size: 22px;
+        }
+        h5{
+            font-size: 17px;
+        }
+
+    }

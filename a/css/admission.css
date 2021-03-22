@@ -1,0 +1,564 @@
+.main_about {
+  padding: 0;
+  position: relative;
+  margin-top: 220px;
+}
+.about-heading {
+  font-weight: bold;
+
+  padding: 0;
+  width: 100%;
+  margin-bottom: 40px;
+  color: #17375d;
+}
+.heading {
+  /* text-align: center; */
+
+  color: #17375d;
+}
+p {
+  font-size: 17px;
+}
+.inner_container {
+  margin-top: 20px;
+}
+.main_about .nav-tabs {
+  border-bottom: none;
+  padding: 0 10%;
+}
+.Media .nav-tabs li {
+  padding: 0 45px 0 0;
+}
+.main_about .nav-tabs .nav-link {
+  border: none;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  font-weight: 500;
+  color: #000;
+  padding: 8px 0;
+  font-size: 17px;
+}
+/* .main_about .gla-placement-sec .nav-tabs .nav-item.show .nav-link {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+  border-bottom: 1px solid #000;
+  font-weight: 700;
+  width: max-content;
+} */
+.nav-tabs .nav-link.active {
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
+  border-bottom: 2px solid #000;
+  font-weight: 700;
+  width: max-content;
+}
+.csr-section #nav-tab li {
+  padding: 0 10px;
+  display: inline-block;
+}
+
+.second_menu ul {
+  width: 100%;
+  float: left;
+  padding-left: 0;
+  margin: 0;
+}
+.second_menu ul li {
+  border: none;
+  padding: 0 10px;
+  font-size: 16px;
+  float: left;
+  list-style: none;
+}
+.second_menu ul li:first-child {
+  padding-left: 0;
+}
+.second_menu ul li a {
+  border: none;
+  font-weight: 500;
+  color: #757575;
+  font-size: 17px;
+  list-style: none;
+  padding: 0;
+}
+.second_menu ul li.active a {
+  color: #000;
+  border-bottom: solid 2px #595758;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+.second_menu {
+  height: 38px;
+}
+.admission_ul ul {
+  padding-left: 0;
+}
+.admission_ul ul li {
+  list-style: none;
+  display: inline-block;
+  width: 44%;
+  border-bottom: solid 1px #ccc;
+  padding: 10px 0;
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 27px;
+}
+.admission_process_sec .admission_ul ul li {
+  border-bottom: 0;
+}
+.admission_process_sec .admission_ul ul {
+  width: 90%;
+  border-bottom: solid 1px #ccc;
+  height: 200px;
+  padding-bottom: 20px;
+}
+.course_sec_list.abs_sec {
+  background: #5d81b5;
+}
+.course_sec_list.abs_sec ul li a {
+  color: #fff;
+}
+.course_sec_list.abs_sec {
+  background: #5d81b5;
+  padding: 30px;
+  margin-bottom: 40px;
+}
+.course_sec_list.abs_sec p {
+  color: #fff;
+}
+.course_sec_list h5 {
+  font-size: 18px;
+  padding: 20px 0;
+  background: #374871;
+  text-align: center;
+  color: #fff;
+}
+a.btn.btn-default.btn_enquiry.course_btn:hover {
+  background: #fff;
+}
+a.btn.btn-default.btn_enquiry.course_btn {
+  letter-spacing: normal;
+  background: 0 0;
+  color: #3e3c3c;
+  border: solid 1px #bfb8b8;
+}
+
+.course_sec_list.abs_sec a.btn.btn-default.btn_enquiry.course_btn:hover {
+  background: #ddd;
+}
+.course_sec_list.abs_sec a.btn.btn-default.btn_enquiry.course_btn {
+  letter-spacing: normal;
+  background: #fff;
+  color: #3e3c3c;
+  border: solid 1px #bfb8b8;
+}
+.course_sec_list.abs_sec {
+  padding: 30px 20px;
+}
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.no-gutters > .col,
+.no-gutters > [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+.padd_sec_prog {
+  padding-bottom: 30px;
+}
+.programme_ul2 {
+  padding: 19px 18px;
+  list-style: none;
+}
+.programme_ul2 li {
+  font-size: 18px;
+  line-height: 31px;
+}
+.programme_ul2 li::before {
+  content: "\2022";
+  color: #fff;
+  font-weight: 700;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.font-18px {
+  font-size: 18px;
+}
+.btn_enquiry {
+  background: #374871;
+  border-radius: 40px;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 14px;
+  padding: 10px 28px;
+  font-weight: 700;
+}
+.btn_enquiry:hover {
+  background: 0 0;
+  color: #fff;
+  border: 1px solid #fff;
+}
+.prog_overview {
+  background: #f7f7f7;
+  padding: 30px;
+  margin-bottom: 40px;
+}
+.prog_overview h5 {
+  font-size: 18px;
+  padding: 20px 0;
+  background: #374871;
+  text-align: center;
+  color: #fff;
+}
+.prog_overview {
+  padding: 30px 15px;
+}
+.course_list_sec {
+  padding-left: 30px;
+}
+
+.font-16 {
+  font-size: 16px;
+}
+.programme_ul li::before {
+  content: "\2022";
+  color: #374871;
+  font-weight: 700;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.programme_ul {
+  padding: 20px 18px 30px;
+  list-style: none;
+}
+.programme_ul li {
+  font-size: 18px;
+  line-height: 31px;
+}
+.programme_ul li a {
+  font-size: 18px;
+  line-height: 31px;
+  color: #000;
+  text-decoration: none;
+}
+
+/* --------------------------
+Admission Process 
+---------------------------------*/
+p.admission_head {
+  font-size: 20px;
+  line-height: 1.5;
+  padding-bottom: 0;
+}
+.admission_process_sec {
+  background: #f9f2f2;
+  padding: 40px;
+  margin-bottom: 30px;
+}
+.admission_process_sec .admission_ul ul li {
+  border-bottom: 0;
+}
+.admission_process_sec .admission_ul ul {
+  width: 90%;
+  border-bottom: solid 1px #ccc;
+  height: 200px;
+  padding-bottom: 20px;
+}
+.admission_process_sec .admission_ul {
+  border-bottom: solid 1px #ccc;
+  padding: 30px 0;
+}
+.admission_process_sec a {
+  color: #374871;
+  font-weight: 700;
+}
+.admission_process_sec.height_sec1,
+.admission_process_sec.height_sec2 {
+  height: 250px;
+}
+.admission_process_sec.height_sec1 .stap_sec,
+.admission_process_sec.height_sec2 .stap_sec {
+  border-bottom: 0;
+}
+.admission_process_sec {
+  padding: 20px;
+}
+.admission_process_sec,
+.helpline_sec {
+  padding: 30px 20px;
+}
+.admission_process_sec.height_sec1,
+.admission_process_sec.height_sec2 {
+  height: auto;
+}
+.stap_sec {
+  border-bottom: solid 1px #ccc;
+  margin-bottom: 20px;
+}
+.helpline_sec {
+  background: #374871;
+  padding: 40px;
+  margin-bottom: 40px;
+}
+.helpline_sec h2 {
+  font-size: 24px;
+  color: #ccc;
+  padding-bottom: 10px;
+  border-bottom: solid 1px #ccc;
+}
+.helpline_sec h4 {
+  padding: 15px 0 0;
+  color: #ccc;
+  font-size: 21px;
+}
+.helpline_sec p {
+  color: #ccc;
+}
+.helpline_sec p a {
+  color: #ccc;
+}
+.helpline_sec p a:hover {
+  color: #fff;
+}
+
+/* ---------------------
+Alliance Scholarships 
+------------------------*/
+
+.all-cms-page ul li {
+  margin-bottom: 16px;
+}
+.all-cms-page h3 {
+  margin-bottom: 30px;
+  font-size: 28px;
+  font-weight: 700;
+  color: #000;
+}
+.all-cms-page ul {
+  padding-left: 20px;
+}
+.cours-content .table .thead-dark th {
+  color: #fff;
+  background-color: #566388;
+  border-color: #707da2;
+  border-top: inherit;
+  border-bottom: inherit;
+  font-size: 15px;
+  font-weight: 800;
+  padding: 20px 40px;
+}
+.cours-content .table tbody tr td {
+  padding: 10px 40px;
+}
+.cours-content .table .thead-dark th.redbg {
+  background: #781915 !important;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+.cours-content .table-bordered {
+  border: inherit;
+  margin-top: 20px;
+}
+.cours-content .table-bordered td,
+.table-bordered th {
+  border: 1px solid #d9d9d9;
+}
+.cours-content .table-striped tbody tr:nth-of-type(odd) {
+  background-color: #e9eef4;
+}
+@media screen and (max-width: 768px) {
+  .table-responsive-stack tr {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    border-bottom: 3px solid #ccc;
+    display: block;
+  }
+  .table-responsive-stack td {
+    width: 100%;
+  }
+  .scholarhip-panel-2 .cours-content .table-bordered {
+    margin: 40px 0;
+  }
+}
+
+/* ---------------------
+admission fee-strcture 
+----------------------------*/
+
+.fee-strcture .tab-content > .tab-pane {
+  padding: 0;
+}
+@media (max-width: 767px) {
+  .tab-content > .tab-pane {
+    display: block !important;
+    opacity: 1;
+  }
+}
+@media (min-width: 768px) {
+  .nav-tabs {
+    display: flex;
+  }
+  .card {
+    border: none;
+  }
+  .card .card-header {
+    display: none;
+  }
+  .card .collapse {
+    display: block;
+  }
+}
+.fee-strcture {
+  width: 100%;
+}
+.fee-strcture .nav-tabs {
+  border-bottom: none;
+  margin-bottom: 50px;
+}
+.fee-strcture .nav-tabs .nav-link {
+  background: #f5f2ea;
+  padding: 35px 50px;
+  border-radius: 0;
+  font-size: 18px;
+  color: #000;
+  font-weight: 600;
+  height: 180px;
+}
+.fee-strcture .nav-tabs .nav-link:last-child {
+  margin-right: 0;
+}
+.fee-strcture li.nav-item {
+  margin-right: 25px;
+}
+.fee-strcture .nav-tabs .nav-item {
+  margin-bottom: 0;
+  padding: 0;
+  list-style: none;
+  background: 0 0;
+}
+.fee-strcture li.nav-item:last-child {
+  margin-right: 0;
+}
+.fee-strcture .nav-tabs .nav-link.active {
+  background: 0 0;
+  border: 1px solid #731013;
+  border-radius: 0;
+}
+.fee-strcture .acoord-shadow {
+  transition: 0.4s;
+  box-shadow: 0 0 10px 0.5px rgba(158, 155, 155, 0.3);
+  margin-bottom: 30px;
+}
+.fee-strcture .accordion {
+  padding: 0;
+  background: #fff;
+  margin: 0;
+}
+.fee-strcture .accordion a {
+  background: #f7f7f7;
+  width: 100%;
+  display: block;
+  padding: 20px;
+}
+.fee-strcture .accordion a.collapsed {
+  background: #fff;
+  width: 100%;
+  display: block;
+  padding: 20px;
+}
+.fee-strcture .card-body .cours-content {
+  padding: 22px;
+}
+.fee-strcture h5.mb-0.accordion a {
+  position: relative;
+  font-size: 16px;
+  font-weight: 500;
+}
+.fee-strcture .mb-0 a span {
+  font-size: 22px;
+  font-weight: 600;
+  width: 30%;
+  float: left;
+}
+.fee-strcture .mb-0 a abbr {
+  background: #f7f7f7;
+  display: block;
+  position: relative;
+  width: 130px;
+  height: 64px;
+  float: right;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.fee-strcture .mb-0 > a abbr:after {
+  content: "\f067";
+  font-family: FontAwesome;
+  position: absolute;
+  right: 45px;
+  background: #fff;
+  padding: 12px;
+  top: 15px;
+  border-radius: 50%;
+  font-weight: 100;
+  width: 38px;
+  font-size: 18px;
+  height: 38px;
+  line-height: normal;
+}
+.fee-strcture .mb-0 > a[aria-expanded="true"] abbr:after {
+  content: "\f068";
+  right: 45px;
+  background: #fff;
+  padding: 12px;
+  top: 15px;
+  border-radius: 50%;
+  font-weight: 100;
+  width: 38px;
+  font-size: 18px;
+  height: 38px;
+  line-height: normal;
+}
+.acoord-shadow.pdf-down h5 {
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.acoord-shadow.pdf-down h5 a.grey-bg:after {
+  content: "";
+  background: #f7f7f7;
+  position: relative;
+  width: 130px;
+  height: 65px;
+  position: absolute;
+  right: -20px;
+  position: absolute;
+  top: -21px;
+}
+.acoord-shadow.pdf-down h5 a {
+  position: relative;
+  float: right;
+  font-size: 16px;
+}
+.acoord-shadow.pdf-down h5 a.grey-bg img {
+  float: right;
+  position: absolute;
+  right: 27px;
+  z-index: 9;
+  top: -8px;
+}
+.fee-strcture .acoord-shadow.pdf-down span {
+  font-size: 22px;
+  font-weight: 600;
+  float: left;
+}

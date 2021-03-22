@@ -1,0 +1,59 @@
+/* footer css */
+.wed-hom-footer {
+  padding: 20px 0 5px;
+  background: #2e334a;
+}
+
+.wed-foot-link {
+  border-top: 1px groove #ffffff00;
+  border-bottom: 1px groove #6a83a000;
+  padding: 20px 0 0;
+}
+.wed-foot-link div {
+  border-right: 1px groove #6a83a000;
+}
+
+.wed-hom-footer h4 {
+  font-size: 14px;
+  color: #fff;
+  padding-bottom: 6px;
+  text-transform: uppercase;
+  padding-top: 15px;
+  font-weight: 900;
+  margin-bottom: 5px;
+}
+
+.wed-foot-link ul {
+  padding-left: 0;
+  width: 100%;
+  display: table;
+}
+.wed-foot-link ul li {
+  width: 100%;
+  float: left;
+  list-style: none;
+  text-align: left;
+}
+.wed-foot-link ul li a {
+  color: #cfd3e2;
+  font-size: 14px;
+  font-weight: 400;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  outline: 0;
+}
+.wed-foot-link h5 {
+  color: #fff;
+  font-weight: 800;
+  margin: 22px 0 15px;
+}
+.wed-foot-link div:last-child {
+  border-right: 1px groove #6a83a000;
+}

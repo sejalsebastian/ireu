@@ -1,0 +1,44 @@
+.team_talk {
+    padding: 20px 18px 30px;
+    list-style: none;
+    font-size: 18px;
+  }
+
+  .team_talk li::before {
+    content: "\2022";
+    color: #374871;
+    font-weight: 700;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+
+  p {
+    font-size: 17px;
+  }
+  @media only screen and (max-width: 768px) {
+    
+      
+      .full-width h2 {
+          font-size: 20px;
+      }
+      .heading{
+        font-size: 20px;
+      }
+      .quote{
+        font-size: 19px;
+      }
+      .desc{
+        text-align: justify;
+      }
+      .about-section{
+        text-align: justify;
+      }
+      .team_talk {
+        font-size: 15px;
+      }
+       p {
+          font-size: 17px;
+
+      }
+      }

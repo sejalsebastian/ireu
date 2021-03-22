@@ -1,0 +1,106 @@
+.main_about {
+  padding: 0;
+  position: relative;
+  margin-top: 220px;
+}
+/* .csr-section {
+  margin-top: 90px;
+} */
+p {
+  font-size: 17px;
+}
+.about-heading {
+  font-weight: 800;
+  font-size: 30px;
+  padding: 0;
+  width: 100%;
+  margin-bottom: 40px;
+}
+.second_menu ul {
+  width: 100%;
+  float: left;
+  padding-left: 0;
+  margin: 0;
+}
+.second_menu ul li {
+  border: none;
+  padding: 0 15px;
+  font-size: 16px;
+  float: left;
+  list-style: none;
+}
+.second_menu ul li:first-child {
+  padding-left: 0;
+}
+.second_menu ul li a {
+  border: none;
+  font-weight: 500;
+  color: #757575;
+  font-size: 16px;
+  list-style: none;
+  padding: 0;
+}
+.second_menu ul li a:hover {
+  border: none;
+  font-weight: 500;
+  color: #374871;
+  font-size: 16px;
+  list-style: none;
+  padding: 0;
+}
+.second_menu ul li.active a {
+  color: #000;
+  /* border-bottom: solid 2px #595758; */
+  padding-bottom: 5px;
+}
+
+.second_menu {
+  height: 38px;
+}
+.nav-pills > li > a.active {
+  background-color: white !important;
+
+  color: #000 !important;
+  border-bottom: solid 2px #595758;
+  padding-bottom: 15px;
+}
+/* placements partt */
+
+.acoord-shadow.pdf-down h5 {
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.acoord-shadow.pdf-down h5 a.grey-bg:after {
+  content: "";
+  background: #f7f7f7;
+  position: relative;
+  width: 130px;
+  height: 65px;
+  position: absolute;
+  right: -20px;
+  position: absolute;
+  top: -21px;
+}
+.acoord-shadow.pdf-down h5 a {
+  position: relative;
+  float: right;
+  font-size: 16px;
+}
+.acoord-shadow.pdf-down h5 a.grey-bg img {
+  float: right;
+  position: absolute;
+  right: 27px;
+  z-index: 9;
+  top: -8px;
+}
+.experiential_learning.acoord-shadow.pdf-down span {
+  font-size: 22px;
+  font-weight: 600;
+  float: left;
+}
+.experiential_learning .acoord-shadow {
+  transition: 0.4s;
+  box-shadow: 0 0 10px 0.5px rgba(158, 155, 155, 0.3);
+  margin-bottom: 30px;
+}
